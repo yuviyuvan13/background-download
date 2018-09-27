@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rohitup/background-download.git"
+    "url": "git+https://github.com/yuviyuvan13/background-download.git"
   },
   "keywords": [
     "ecosystem:cordova",
@@ -19,7 +19,7 @@
   "author": "rohitup",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rohitup/background-download/issues"
+    "url": "https://github.com/yuviyuvan13/background-download/issues"
   },
-  "homepage": "https://github.com/rohitup/Multilangprint#readme"
+  "homepage": "https://github.com/yuviyuvan13/Multilangprint#readme"
 }
